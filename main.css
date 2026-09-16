@@ -1,0 +1,20 @@
+header{
+    text-align: center;
+    padding: 20px 0;
+    background-color: #2a0a11;
+    color: #ffffff;
+}
+
+
+.main-content{
+    text-align: center;
+    padding: 30px;
+    background-color: #1f7357;
+}
+
+.project1, .project2{
+    margin: 20px 0;
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
