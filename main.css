@@ -1,20 +1,37 @@
 header{
     text-align: center;
     padding: 20px 0;
-    background-color: #2a0a11;
+    background-color: #5d679a;
     color: #ffffff;
 }
-
 
 .main-content{
     text-align: center;
     padding: 30px;
-    background-color: #1f7357;
+    background-color: #232b3b;
 }
 
-.project1, .project2{
-    margin: 20px 0;
-    background-color: #ffffff;
-    padding: 20px;
-    margin-bottom: 20px;
+a:link{
+    color: #141821;
+    text-decoration: none;
 }
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:visited{
+    color: #141821;
+    text-decoration: none;
+}
+
+.project1, .project2, .project3, .project4{
+    margin: 20px 0;
+    background-color: #abb5e5; 
+    color: #000000;
+    font-size: large;
+    padding: 50px;
+    margin-bottom: 20px;
+    
+}
+
