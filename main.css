@@ -7,7 +7,7 @@ header{
 
 .main-content{
     text-align: center;
-    padding: 30px;
+    padding: 50px;
     background-color: #232b3b;
 }
 
@@ -27,6 +27,7 @@ a:visited{
 
 .project1, .project2, .project3, .project4{
     margin: 20px 0;
+    border-radius: 15px 50px;
     background-color: #abb5e5; 
     color: #000000;
     font-size: large;
